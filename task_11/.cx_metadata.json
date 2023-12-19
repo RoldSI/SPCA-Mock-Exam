@@ -1,0 +1,8 @@
+{
+  "bit_ops.c": "e",
+  "bit_ops.h": "r",
+  "custom_tests.c": "e",
+  "cx_description": "e",
+  "open_tests.c": "r",
+  "scripts": "e"
+}
